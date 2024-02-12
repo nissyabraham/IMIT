@@ -10,5 +10,10 @@ They have the option to cancel or submit the comment.Submitted comments are disp
 
 ![ss1-feedpage](https://github.com/nissyabraham/IMIT/assets/102848271/ee9feede-852f-4990-ae65-5a8fd86b0b0c)
 
+![ss2](https://github.com/nissyabraham/IMIT/assets/102848271/37183a5b-75c1-45dc-ac1d-4d767f9c2e91)
+
+
+![ss3](https://github.com/nissyabraham/IMIT/assets/102848271/3984bd2e-9cab-467c-aae4-2d1a29595263)
+
 
 
