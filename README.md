@@ -17,3 +17,16 @@ They have the option to cancel or submit the comment.Submitted comments are disp
 
 
 
+![ss4](https://github.com/nissyabraham/IMIT/assets/102848271/c588ea4b-fbf1-404a-8a04-2e8355024391)
+
+
+
+![ss5](https://github.com/nissyabraham/IMIT/assets/102848271/cde52b59-41b7-42e3-9eb9-6929d67d99e8)
+
+
+![ss6](https://github.com/nissyabraham/IMIT/assets/102848271/d8363a32-6fef-408e-82ed-b53f44627110)
+
+
+
+
+![ss7](https://github.com/nissyabraham/IMIT/assets/102848271/b43b9f53-da4f-4ab9-ac72-a7d87333f825)
