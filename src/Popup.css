@@ -1,0 +1,55 @@
+.modalbackground{
+  
+    
+position: relative;
+ display: flex;
+ justify-content: center;
+ 
+
+}
+.modalcontainer{
+    
+  position: absolute;
+  position: fixed;
+  height: 300px;
+  width:400px;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  background-color: aliceblue;
+  border-radius: 30px;
+  align-items: center;
+padding-top: 20px;
+}
+.titleclosebtn{
+    margin-left: 350px;
+    margin-bottom: 50px;
+    cursor: pointer;
+
+    
+}
+.modalinput{
+    height: 40px;
+    width: 350px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+ 
+}
+.modalinput::placeholder {
+    text-align: center; 
+}
+.cancelbutton{
+    margin-right: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: red;
+    border-color: red;
+}
+.submitbutton{
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:green;
+    border-color: green;
+}

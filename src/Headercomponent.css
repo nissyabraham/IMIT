@@ -1,0 +1,72 @@
+.container {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center; 
+    padding-right: 20px;
+     
+}
+
+.searchdiv {
+    display: flex; 
+    margin-top: 20px;
+    width: 120px;
+     height: 32px;
+    border-width: 1px;
+    border-color: #c4baba;
+    background-color: #F3F3F3;
+    border-radius: 15px;
+    box-shadow: none;
+    padding-right: 45px;
+    margin-right: 10px;
+   
+}
+.profilediv {
+    display: flex; 
+    margin-top: 20px;
+    width: 100px;
+     height: 32px;
+    border-width: 1px;
+    border-color: #c4baba;
+    background-color:#E7AD99;
+    border-radius: 15px;
+    box-shadow: none;
+     padding-right: 30px; 
+    margin-right: 10px;
+    box-shadow: 1px 0px 0px white;
+   
+}
+
+.searchicon {
+   
+    margin-top: 12px;
+    font-size: 10px;
+    
+   
+}
+
+.searchinput {
+    
+   padding-left: 10px;
+    background-color: transparent;
+    border: 0;
+    outline: none;
+    font-size: 10px;
+}
+.profileicon {
+   margin-left:15px;
+    margin-top: 7px;
+    font-size: 20px;
+    margin-right: 10px;
+   
+}
+.profiletext{
+    margin-top: 10px;
+    font-size: 10px;
+    color: white;
+}
+.logouttext{
+    margin-top: 10px;
+    padding-left: 40px;
+    font-size: 10px;
+    color: white;
+}

@@ -1,0 +1,39 @@
+.containerimg{
+    
+    text-align: center;
+    margin-top: 5px;
+    
+}
+.containerimage{
+    display: flex;
+    height: 200px;
+    width: 1430px;
+  margin-left: 200px;
+  margin-right: 50px;
+    border-width: 2px;
+    border-color:rgb(240, 236, 236);
+    border-style: solid;
+    border-radius: 15px;
+    
+    
+}
+.imageupload{
+    margin-left: 450px;
+     margin-top: 70px;
+     padding-bottom: 20px;
+width: 500px;
+ height: 32px;
+border-width: 1px;
+border-color: #c4baba;
+background-color:#C08C5D;
+border-radius: 25px;
+box-shadow: none;
+cursor: pointer;
+
+box-shadow: 1px 0px 0px white
+}
+
+.imguploadtxt{
+    color:white;
+   
+}
